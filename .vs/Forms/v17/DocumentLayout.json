@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\unit\\unittemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\unit\\unittemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\formstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\formstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\templatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\templatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\moveselectionlogic\\moveselectionlogic_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\moveselectionlogic\\moveselectionlogic_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\unit\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\unit\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\unit\\unitstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\unit\\unitstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\combat\\teamposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\combat\\teamposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scenes\\unittemplatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scenes\\unittemplatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\movelibrary\\movelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\movelibrary\\movelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\camp\\campmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\camp\\campmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\camp\\campbuilding_fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\camp\\campbuilding_fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_statpercent_damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_statpercent_damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\camp\\campbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\camp\\campbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\combat\\effectqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\combat\\effectqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\formsstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\formsstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\formsmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\formsmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\combat\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\combat\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\modifier\\modifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\modifier\\modifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\camp\\campfoundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\camp\\campfoundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Projects\\scripts\\camp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\moveselectionlogic\\moveselectionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\moveselectionlogic\\moveselectionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\moveselectionlogic\\moveselectionlogic_playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\moveselectionlogic\\moveselectionlogic_playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_statpercent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_statpercent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_statmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_statmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\modifier\\modifier_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\modifier\\modifier_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_statpercent_healing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_statpercent_healing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\movelibrary\\movelibrary_typelessmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\movelibrary\\movelibrary_typelessmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\utilities\\wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\utilities\\wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|c:\\users\\eviec\\onedrive\\documents\\godot\\projects-20240430t044742z-001\\projects\\scripts\\effect\\effect_trigger_onhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFF54D8-0636-4A60-A856-FC90856DACB5}|Forms.csproj|solutionrelative:scripts\\effect\\effect_trigger_onhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Godot\\Projects\\scenes\\CombatUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\Unit.cs",
+              "RelativeDocumentMoniker": "scripts\\unit\\Unit.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\Unit.cs",
+              "RelativeToolTip": "scripts\\unit\\Unit.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwEIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.748Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\UnitTemplate.cs",
+              "RelativeDocumentMoniker": "scripts\\unit\\UnitTemplate.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\UnitTemplate.cs",
+              "RelativeToolTip": "scripts\\unit\\UnitTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:00:41.357Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitStats.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\UnitStats.cs",
+              "RelativeDocumentMoniker": "scripts\\unit\\UnitStats.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\unit\\UnitStats.cs",
+              "RelativeToolTip": "scripts\\unit\\UnitStats.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormsTypes.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsTypes.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\FormsTypes.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsTypes.cs",
+              "RelativeToolTip": "scripts\\utilities\\FormsTypes.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:30:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CampBuilding_Fuser.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampBuilding_Fuser.cs",
+              "RelativeDocumentMoniker": "scripts\\camp\\CampBuilding_Fuser.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampBuilding_Fuser.cs",
+              "RelativeToolTip": "scripts\\camp\\CampBuilding_Fuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAArwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveSelectionLogic_Random.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic_Random.cs",
+              "RelativeDocumentMoniker": "scripts\\moveSelectionLogic\\MoveSelectionLogic_Random.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic_Random.cs",
+              "RelativeToolTip": "scripts\\moveSelectionLogic\\MoveSelectionLogic_Random.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EffectQueue.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\EffectQueue.cs",
+              "RelativeDocumentMoniker": "scripts\\combat\\EffectQueue.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\EffectQueue.cs",
+              "RelativeToolTip": "scripts\\combat\\EffectQueue.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwNAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Forms",
+              "DocumentMoniker": "C:\\USERS\\EVIEC\\ONEDRIVE\\DOCUMENTS\\GODOT\\PROJECTS-20240430T044742Z-001\\PROJECTS\\Forms.csproj",
+              "RelativeDocumentMoniker": "Forms.csproj",
+              "ToolTip": "C:\\USERS\\EVIEC\\ONEDRIVE\\DOCUMENTS\\GODOT\\PROJECTS-20240430T044742Z-001\\PROJECTS\\Forms.csproj",
+              "RelativeToolTip": "Forms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T21:24:54.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTemplateLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scenes\\UnitTemplateLibrary.cs",
+              "RelativeDocumentMoniker": "scenes\\UnitTemplateLibrary.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scenes\\UnitTemplateLibrary.cs",
+              "RelativeToolTip": "scenes\\UnitTemplateLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:19:33.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamPosition.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\TeamPosition.cs",
+              "RelativeDocumentMoniker": "scripts\\combat\\TeamPosition.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\TeamPosition.cs",
+              "RelativeToolTip": "scripts\\combat\\TeamPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\TemplateLibrary.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\TemplateLibrary.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\TemplateLibrary.cs",
+              "RelativeToolTip": "scripts\\utilities\\TemplateLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:15:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CampFoundation.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampFoundation.cs",
+              "RelativeDocumentMoniker": "scripts\\camp\\CampFoundation.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampFoundation.cs",
+              "RelativeToolTip": "scripts\\camp\\CampFoundation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CampBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampBuilding.cs",
+              "RelativeDocumentMoniker": "scripts\\camp\\CampBuilding.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampBuilding.cs",
+              "RelativeToolTip": "scripts\\camp\\CampBuilding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CampManager.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampManager.cs",
+              "RelativeDocumentMoniker": "scripts\\camp\\CampManager.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\camp\\CampManager.cs",
+              "RelativeToolTip": "scripts\\camp\\CampManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\GameManager.cs",
+              "RelativeToolTip": "scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoveLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveLibrary\\MoveLibrary.cs",
+              "RelativeDocumentMoniker": "scripts\\moveLibrary\\MoveLibrary.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveLibrary\\MoveLibrary.cs",
+              "RelativeToolTip": "scripts\\moveLibrary\\MoveLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Modifier.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\modifier\\Modifier.cs",
+              "RelativeDocumentMoniker": "scripts\\modifier\\Modifier.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\modifier\\Modifier.cs",
+              "RelativeToolTip": "scripts\\modifier\\Modifier.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDEAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\CombatManager.cs",
+              "RelativeDocumentMoniker": "scripts\\combat\\CombatManager.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\CombatManager.cs",
+              "RelativeToolTip": "scripts\\combat\\CombatManager.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAUwCsBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Effect_StatPercent_Damage.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent_Damage.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_StatPercent_Damage.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent_Damage.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_StatPercent_Damage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormsStats.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsStats.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\FormsStats.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsStats.cs",
+              "RelativeToolTip": "scripts\\utilities\\FormsStats.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\Team.cs",
+              "RelativeDocumentMoniker": "scripts\\combat\\Team.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\combat\\Team.cs",
+              "RelativeToolTip": "scripts\\combat\\Team.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormsMoves.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsMoves.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\FormsMoves.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\FormsMoves.cs",
+              "RelativeToolTip": "scripts\\utilities\\FormsMoves.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Stat.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\Stat.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\Stat.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\Stat.cs",
+              "RelativeToolTip": "scripts\\utilities\\Stat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "camp.cs",
+              "DocumentMoniker": "C:\\Godot\\Projects\\scripts\\camp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Godot\\Projects\\scripts\\camp.cs",
+              "ToolTip": "C:\\Godot\\Projects\\scripts\\camp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Godot\\Projects\\scripts\\camp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T23:07:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MoveSelectionLogic.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic.cs",
+              "RelativeDocumentMoniker": "scripts\\moveSelectionLogic\\MoveSelectionLogic.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic.cs",
+              "RelativeToolTip": "scripts\\moveSelectionLogic\\MoveSelectionLogic.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MoveSelectionLogic_PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic_PlayerInput.cs",
+              "RelativeDocumentMoniker": "scripts\\moveSelectionLogic\\MoveSelectionLogic_PlayerInput.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveSelectionLogic\\MoveSelectionLogic_PlayerInput.cs",
+              "RelativeToolTip": "scripts\\moveSelectionLogic\\MoveSelectionLogic_PlayerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Effect_StatPercent.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_StatPercent.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_StatPercent.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Modifier_Stat.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\modifier\\Modifier_Stat.cs",
+              "RelativeDocumentMoniker": "scripts\\modifier\\Modifier_Stat.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\modifier\\Modifier_Stat.cs",
+              "RelativeToolTip": "scripts\\modifier\\Modifier_Stat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Effect_StatModifier.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatModifier.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_StatModifier.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatModifier.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_StatModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CombatUI.cs",
+              "DocumentMoniker": "C:\\Godot\\Projects\\scenes\\CombatUI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Godot\\Projects\\scenes\\CombatUI.cs",
+              "ToolTip": "C:\\Godot\\Projects\\scenes\\CombatUI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Godot\\Projects\\scenes\\CombatUI.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T23:04:12.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Effect_StatPercent_Healing.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent_Healing.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_StatPercent_Healing.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_StatPercent_Healing.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_StatPercent_Healing.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoveLibrary_TypelessMoves.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveLibrary\\MoveLibrary_TypelessMoves.cs",
+              "RelativeDocumentMoniker": "scripts\\moveLibrary\\MoveLibrary_TypelessMoves.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\moveLibrary\\MoveLibrary_TypelessMoves.cs",
+              "RelativeToolTip": "scripts\\moveLibrary\\MoveLibrary_TypelessMoves.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Effect_Trigger_OnHit.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_Trigger_OnHit.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_Trigger_OnHit.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_Trigger_OnHit.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_Trigger_OnHit.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Effect_Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_Trigger.cs",
+              "RelativeDocumentMoniker": "scripts\\effect\\Effect_Trigger.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\effect\\Effect_Trigger.cs",
+              "RelativeToolTip": "scripts\\effect\\Effect_Trigger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Wrapper.cs",
+              "DocumentMoniker": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\Wrapper.cs",
+              "RelativeDocumentMoniker": "scripts\\utilities\\Wrapper.cs",
+              "ToolTip": "C:\\Users\\eviec\\OneDrive\\Documents\\Godot\\Projects-20240430T044742Z-001\\Projects\\scripts\\utilities\\Wrapper.cs",
+              "RelativeToolTip": "scripts\\utilities\\Wrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:47:26.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

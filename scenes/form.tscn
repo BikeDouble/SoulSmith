@@ -1,0 +1,49 @@
+[gd_scene load_steps=8 format=3 uid="uid://ce2bkw8mmrbg5"]
+
+[ext_resource type="Script" path="res://scripts/unit/Unit.cs" id="1_2ldxy"]
+[ext_resource type="PackedScene" uid="uid://lgdprs44fniu" path="res://scenes/form_ui.tscn" id="1_24cma"]
+[ext_resource type="Texture2D" uid="uid://8wmougigs5ow" path="res://assets/sprites/visualizationSprites/static/joyPellet.png" id="2_00ijc"]
+[ext_resource type="Script" path="res://scripts/unit/UnitSprite.cs" id="3_krqhp"]
+[ext_resource type="Script" path="res://scripts/unit/UnitStats.cs" id="4_t8ulj"]
+[ext_resource type="Script" path="res://scripts/unit/UnitVisualizationZone.cs" id="6_ivg7k"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_o0a05"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_00ijc")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="Form" type="Node2D" node_paths=PackedStringArray("_uI", "_stats", "_sprite")]
+scale = Vector2(0.34, 0.34)
+script = ExtResource("1_2ldxy")
+_uI = NodePath("UI")
+_stats = NodePath("Stats")
+_sprite = NodePath("Sprite")
+
+[node name="Sprite" type="AnimatedSprite2D" parent="." node_paths=PackedStringArray("_visualizationZone")]
+sprite_frames = SubResource("SpriteFrames_o0a05")
+frame_progress = 0.502496
+script = ExtResource("3_krqhp")
+_visualizationZone = NodePath("VisualizationZone")
+
+[node name="VisualizationZone" type="ReferenceRect" parent="Sprite"]
+offset_left = -82.353
+offset_top = -79.4118
+offset_right = 81.647
+offset_bottom = 78.5882
+script = ExtResource("6_ivg7k")
+
+[node name="UI" parent="." node_paths=PackedStringArray("_stats") instance=ExtResource("1_24cma")]
+offset_left = -220.588
+offset_top = -244.118
+offset_right = -180.588
+offset_bottom = -204.118
+_stats = NodePath("../Stats")
+
+[node name="Stats" type="Node" parent="."]
+script = ExtResource("4_t8ulj")

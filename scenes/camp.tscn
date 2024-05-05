@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://bx88f122h6dvi"]
+
+[ext_resource type="Script" path="res://scripts/camp/CampManager.cs" id="1_2v60l"]
+[ext_resource type="Script" path="res://scripts/camp/CampFoundation.cs" id="2_glx1g"]
+
+[node name="CampManager" type="Node3D" node_paths=PackedStringArray("_foundations")]
+script = ExtResource("1_2v60l")
+_foundations = []
+
+[node name="Foundation" type="Node3D" parent="."]
+script = ExtResource("2_glx1g")
+
+[node name="UILayer" type="CanvasLayer" parent="."]
+
+[node name="CampUI" type="Control" parent="UILayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0

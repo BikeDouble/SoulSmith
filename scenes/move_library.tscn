@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://dl8rn4asxrnj3"]
+
+[ext_resource type="Script" path="res://scripts/moveLibrary/MoveLibrary.cs" id="1_4qg25"]
+[ext_resource type="Script" path="res://scripts/moveLibrary/MoveLibrary_TypelessMoves.cs" id="2_tmqv1"]
+
+[node name="MoveLibrary" type="Node"]
+script = ExtResource("1_4qg25")
+
+[node name="MoveLibrary_TypelessMoves" type="Node" parent="."]
+script = ExtResource("2_tmqv1")

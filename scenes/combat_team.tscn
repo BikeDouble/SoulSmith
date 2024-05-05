@@ -1,0 +1,36 @@
+[gd_scene load_steps=5 format=3 uid="uid://dsscmp0xt63u2"]
+
+[ext_resource type="Script" path="res://scripts/combat/Team.cs" id="1_y6qti"]
+[ext_resource type="Script" path="res://scripts/combat/TeamPosition.cs" id="2_h6m8o"]
+[ext_resource type="PackedScene" uid="uid://ce2bkw8mmrbg5" path="res://scenes/form.tscn" id="2_p1p67"]
+[ext_resource type="Script" path="res://scripts/moveSelectionLogic/MoveSelectionLogic.cs" id="4_ga721"]
+
+[node name="Team" type="Node2D" node_paths=PackedStringArray("_mSL", "_positions")]
+script = ExtResource("1_y6qti")
+_mSL = NodePath("MoveSelectionLogic")
+_positions = [NodePath("PosOne"), NodePath("PosTwo"), NodePath("PosThree")]
+
+[node name="PosOne" type="Node2D" parent="." node_paths=PackedStringArray("_unit")]
+script = ExtResource("2_h6m8o")
+_unit = NodePath("Form")
+
+[node name="Form" parent="PosOne" instance=ExtResource("2_p1p67")]
+
+[node name="PosTwo" type="Node2D" parent="." node_paths=PackedStringArray("_unit")]
+position = Vector2(-2, 151)
+script = ExtResource("2_h6m8o")
+_positionNumber = 1
+_unit = NodePath("Form")
+
+[node name="Form" parent="PosTwo" instance=ExtResource("2_p1p67")]
+
+[node name="PosThree" type="Node2D" parent="." node_paths=PackedStringArray("_unit")]
+position = Vector2(-1, 301)
+script = ExtResource("2_h6m8o")
+_positionNumber = 2
+_unit = NodePath("Form")
+
+[node name="Form" parent="PosThree" instance=ExtResource("2_p1p67")]
+
+[node name="MoveSelectionLogic" type="Node" parent="."]
+script = ExtResource("4_ga721")

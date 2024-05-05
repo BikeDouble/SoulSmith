@@ -1,0 +1,40 @@
+[gd_scene load_steps=5 format=3 uid="uid://cwe0pbmqmovut"]
+
+[ext_resource type="Script" path="res://scripts/combat/CombatManager.cs" id="1_6fms8"]
+[ext_resource type="PackedScene" uid="uid://dsscmp0xt63u2" path="res://scenes/combat_team.tscn" id="2_vm5cv"]
+[ext_resource type="Script" path="res://scripts/combat/EffectQueue.cs" id="3_ywtte"]
+[ext_resource type="Script" path="res://scripts/combat/CombatUI.cs" id="4_lspx3"]
+
+[node name="Combat Scene" type="Node2D" node_paths=PackedStringArray("_teams", "_effectQueue", "_combatUI")]
+script = ExtResource("1_6fms8")
+_teams = [NodePath("TeamOne"), NodePath("TeamTwo")]
+_effectQueue = NodePath("EffectQueue")
+_combatUI = NodePath("CombatUI")
+
+[node name="TeamOne" parent="." instance=ExtResource("2_vm5cv")]
+position = Vector2(160, 146)
+_playerControlled = true
+
+[node name="TeamTwo" parent="." instance=ExtResource("2_vm5cv")]
+position = Vector2(977, 145)
+
+[node name="EffectQueue" type="Node" parent="."]
+script = ExtResource("3_ywtte")
+
+[node name="CombatUI" type="Control" parent="." node_paths=PackedStringArray("_roundCounter")]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("4_lspx3")
+_roundCounter = NodePath("RoundCounter")
+
+[node name="RoundCounter" type="RichTextLabel" parent="CombatUI"]
+layout_mode = 0
+offset_left = 9.0
+offset_top = 5.0
+offset_right = 209.0
+offset_bottom = 65.0
+theme_override_font_sizes/normal_font_size = 38
+text = "Round 1
+"

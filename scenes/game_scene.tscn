@@ -1,0 +1,22 @@
+[gd_scene load_steps=6 format=3 uid="uid://csrf77gugob13"]
+
+[ext_resource type="Script" path="res://scripts/GameManager.cs" id="1_ijuvl"]
+[ext_resource type="PackedScene" uid="uid://cwe0pbmqmovut" path="res://scenes/combat_scene.tscn" id="1_wvipi"]
+[ext_resource type="PackedScene" uid="uid://dl8rn4asxrnj3" path="res://scenes/move_library.tscn" id="2_1gep8"]
+[ext_resource type="PackedScene" uid="uid://bx88f122h6dvi" path="res://scenes/camp.tscn" id="4_h84cj"]
+[ext_resource type="Script" path="res://scenes/UnitTemplateLibrary.cs" id="5_mal3v"]
+
+[node name="Game Scene" type="Node2D" node_paths=PackedStringArray("_combatManager", "_campManager", "_moveLibrary")]
+script = ExtResource("1_ijuvl")
+_combatManager = NodePath("Combat Scene")
+_campManager = NodePath("Camp")
+_moveLibrary = NodePath("MoveTemplateLibrary")
+
+[node name="Combat Scene" parent="." instance=ExtResource("1_wvipi")]
+
+[node name="Camp" parent="." instance=ExtResource("4_h84cj")]
+
+[node name="UnitTemplateLibrary" type="Node" parent="."]
+script = ExtResource("5_mal3v")
+
+[node name="MoveTemplateLibrary" parent="." instance=ExtResource("2_1gep8")]

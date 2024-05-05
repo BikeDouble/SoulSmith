@@ -1,0 +1,1 @@
+These are the scripts for my Godot game project, SoulSmith. Unfortunately, I wasn't able to submit the executable for the game here.
